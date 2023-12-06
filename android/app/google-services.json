@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "71930117239",
+    "project_id": "emmanuel-58402",
+    "storage_bucket": "emmanuel-58402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71930117239:android:c9dcd8f63cf2cd69901a72",
+        "android_client_info": {
+          "package_name": "gdg.london.wow_shopping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kIpRCC9nwkyAQx-ypiODPfojFTw_yHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
